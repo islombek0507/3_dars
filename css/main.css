@@ -1,0 +1,60 @@
+.services-list{
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
+.service-item{
+    width: 370px;
+    display: inline-block;
+    border: 2px solid black;
+    box-sizing: border-box;
+    margin-right: 20px;
+    
+    border-radius: 20px;
+
+
+}
+h2{
+    text-align: center;
+}
+.read{
+    text-decoration: none;
+}
+.all{
+    text-decoration: none;
+    padding: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid #458FF6;
+    box-sizing: border-box;
+    border-radius: 55px;
+   margin-left: 580px;
+    background-color: white;
+    font-size: 20px;
+    color: blue;
+}
+.hr{
+    border: none;
+    border-top: 2px solid #000000;
+    width: 80px;}
+/* div{ width: 500px;
+    padding: 25px;
+    padding-top: 5px;
+} */
+.matn{
+    
+    display: inline-block;
+    width: 500px;
+   
+    vertical-align: top;
+}
+.rasm{
+    
+    width: 252px;
+height: 143px;
+margin-right: 20px;
+}
+h3{
+    margin: 0px;
+}
